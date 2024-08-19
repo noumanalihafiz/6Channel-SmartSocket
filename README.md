@@ -1,1 +1,3 @@
 # 6 Channel Smart Socket
+
+The 6-Channel Smart Socket is a versatile device that transforms traditional power outlets into intelligent, remotely controllable power sources. This innovative product seamlessly integrates into existing electrical infrastructure, offering users the convenience of both manual and app-based control. Equipped with six independent sockets, it provides granular management of connected devices. Users can leverage the familiar physical buttons for direct interaction or utilize a dedicated Android app for remote operation and advanced scheduling. The smart socket enables wireless control and monitoring from anywhere within the network's range by connecting to a local Wi-Fi network.
